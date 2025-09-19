@@ -8,9 +8,8 @@
 
 - 📫 How to reach me **vishwajeetsrk@gmail.com**
 
--  <div class="pt-4">
-                                <a href="https://drive.google.com/uc?export=download&id=1mLJM1bOMT7NN_9X71Mi06dMtpb6WM-YS" class="w-full block text-center px-6 py-3 bg-primary text-white rounded-lg hover:bg-blue-600 transition">Download 📄 CV</a>
-                            </div>
+- 📄This my CV <a href="https://drive.google.com/uc?export=download&id=1mLJM1bOMT7NN_9X71Mi06dMtpb6WM-YS" class="w-full block text-center px-6 py-3 bg-primary text-white rounded-lg hover:bg-blue-600 transition">Download</a>
+- My Portfolio <a href="https://huggingface.co/spaces/Vishwajeetsrk/vishwajeetportfolio"></a>
 
 - ⚡ Fun fact **I thing I am enjoy coding😅**
 
