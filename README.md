@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vishwajeetsrk@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFaujnY-LU/HOLsv9hoPRHPnp3nbuuQpA/edit?utm_content=DAFaujnY-LU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFaujnY-LU/HOLsv9hoPRHPnp3nbuuQpA/edit?utm_content=DAFaujnY-LU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my CV [https://drive.google.com/uc?export=download&id=1mLJM1bOMT7NN_9X71Mi06dMtpb6WM-YS]
 
 - ⚡ Fun fact **I thing I am enjoy coding😅**
 
