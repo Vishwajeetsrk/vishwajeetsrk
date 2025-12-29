@@ -98,13 +98,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vishwajeetsrk&show_icons=true&theme=tokyonight"/>
-</p>
+</p> -->
 
-<p align="center">
+<!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetsrk&layout=compact&theme=tokyonight"/>
-</p>
+</p> -->
 
 ---
 
