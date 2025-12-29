@@ -1,30 +1,112 @@
-<!--![logo](https://github.com/Vishwajeetsrk/vishwajeetsrk/blob/main/Blue%20White%20Geometric%20Business%20Blog%20Banner%20(1).png)-->
-<h1 align="center">Hi 👋, I'm Vishwajeet</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeetsrk&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeetsrk" /> </p>
-
-- 📫 How to reach me **vishwajeetsrk@gmail.com**
-
-- 📄This my CV <a href="https://drive.google.com/uc?export=download&id=1mLJM1bOMT7NN_9X71Mi06dMtpb6WM-YS" class="w-full block text-center px-6 py-3 bg-primary text-white rounded-lg hover:bg-blue-600 transition">Download</a>
-- My <a href="https://huggingface.co/spaces/Vishwajeetsrk/vishwajeetportfolio">Portfolio</a>
-
-- ⚡ Fun fact **I thing I am enjoy coding😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishwajeetsrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwajeetsrk" height="30" width="40" /></a>
-<a href="https://instagram.com/vishwajeetsrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishwajeetsrk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@VishwaJeetSrK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishwajeetsrk" height="30" width="40" /></a>
+<!-- ===================== HEADER / HERO ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vishwajeet;Frontend+Developer+from+India;Web+%7C+AI+%7C+Data+Automation;Building+Clean+and+Scalable+UI" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishwajeetsrk&label=Profile+Views&color=0e75b6&style=flat" />
+  <a href="mailto:vishwajeetsrk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/vishwajeetsrk">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://huggingface.co/spaces/Vishwajeetsrk/vishwajeetportfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat&logo=vercel" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeetsrk&show_icons=true&locale=en&layout=compact" alt="vishwajeetsrk" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwajeetsrk&show_icons=true&locale=en" alt="vishwajeetsrk" /></p>
+<img align="right" alt="Coding" width="380"
+src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetsrk&" alt="vishwajeetsrk" /></p>
+## 👨‍💻 About Me
+
+🎓 **BCA Student | Frontend Developer**  
+💻 Passionate about **modern UI, responsive design, and clean code**  
+🤖 Exploring **AI-powered automation and data-driven applications**  
+📈 Focused on **real-world projects and continuous improvement**
+
+> ⚡ Fun fact: I don’t just code — I enjoy **debugging and optimizing** 😄
+
+---
+
+## 📄 Resume & Portfolio
+
+- 📧 **Email:** `vishwajeetsrk@gmail.com`
+- 📄 **Resume:**  
+  👉 <a href="https://drive.google.com/uc?export=download&id=1mLJM1bOMT7NN_9X71Mi06dMtpb6WM-YS"><b>Download CV</b></a>
+- 🌐 **Portfolio:**  
+  👉 <a href="https://huggingface.co/spaces/Vishwajeetsrk/vishwajeetportfolio"><b>View Live Portfolio</b></a>
+
+---
+
+## 🧠 Skills & Tools
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 💻 Programming & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
+</p>
+
+### 🛠 Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/vishwajeetsrk">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/vishwajeetsrk">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.youtube.com/@VishwaJeetSrK">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwajeetsrk&show_icons=true&rank_icon=github&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetsrk&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetsrk&layout=compact&hide_border=true" width="50%" />
+</p>
+
+---
+
+## 🐍 Contribution Graph (Live Animation)
+
+<p align="center">
+  <img src="https://github.com/Vishwajeetsrk/Vishwajeetsrk/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Frontend performance & accessibility
+- JavaScript mastery
+- AI automation with APIs
+- Building production-ready projects
+
+---
+
+<p align="center">
+  <b>✨ Always learning • Always building • Always improving ✨</b>
+</p>
