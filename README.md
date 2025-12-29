@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://your-gif-link-here.gif" width="80%" />
+    <img src="https://github.com/Vishwajeetsrk/Personal-Portfolio-Website/blob/main/allgif.gif?raw=true" width="80%" />
   </a>
 </p>
 
