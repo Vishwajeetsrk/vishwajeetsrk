@@ -38,7 +38,7 @@
 </p>
 
 > 💡 *Click the preview to watch the portfolio video*
-  <a href="https://portfolio.vishwajeetsrk.workers.dev/">
+  <a href="https://vishwajeetsrk.github.io/">
     Portfolio Link
   </a>
 
