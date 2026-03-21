@@ -47,7 +47,7 @@
 
 ## 🔭 Current Work
 - Working on **Personal Portfolio Website**  
-  👉 https://vishwajeetsrk.github.io/
+  👉 https://github.com/Vishwajeetsrk/vishwajeetsrk.github.io
 
 ---
 
