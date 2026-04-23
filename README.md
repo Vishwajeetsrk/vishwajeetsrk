@@ -41,18 +41,27 @@
   <a href="https://vishwajeetsrk.github.io/">
     Portfolio Link
   </a>
+## 🎥 Live Portfolio Preview (Auto-Play)
 
+<p align="center">
+  <a href="./video.mp4">
+    <img src="assets/allgif.gif" width="900" alt="Portfolio Live Preview">
+  </a>
+</p>
+
+> ▶️ **GIF auto-plays** on GitHub <a href="https://vishwajeetsrk.github.io/">View Live </a>
   
 ---
 
 ## 🔭 Current Work
-- Working on **Personal Portfolio Website**  
-  👉 https://github.com/Vishwajeetsrk/vishwajeetsrk.github.io
+- Working on **Website**  
+  👉 [https://github.com/Vishwajeetsrk/vishwajeetsrk.github.io](https://github.com/Vishwajeetsrk/DreamSync)
 
 ---
 
 ## 📂 All Projects
 👉 https://github.com/Vishwajeetsrk
+
 
 ---
 
