@@ -33,23 +33,25 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://github.com/Vishwajeetsrk/Personal-Portfolio-Website/blob/main/allgif.gif?raw=true" width="80%" />
+    <img src="allgif.gif?raw=true" width="80%" />
   </a>
 </p>
 
 > 💡 *Click the preview to watch the portfolio video*
-  <a href="https://vishwajeetsrk.github.io/">
-    Portfolio Link
-  </a>
 ## 🎥 Live Portfolio Preview (Auto-Play)
 
 <p align="center">
   <a href="./video.mp4">
-    <img src="assets/allgif.gif" width="900" alt="Portfolio Live Preview">
+     <img src="allgif.gif" width="900" alt="Portfolio Live Preview">
   </a>
 </p>
 
 > ▶️ **GIF auto-plays** on GitHub <a href="https://vishwajeetsrk.github.io/">View Live </a>
+    Portfolio Link
+  </a>
+
+
+
   
 ---
 
