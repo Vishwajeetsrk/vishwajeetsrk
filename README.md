@@ -28,16 +28,6 @@
 - 🛠 Passionate about **clean code & optimization**
 
 ---
-
-## 🎥 Portfolio Preview (Interactive Visual)
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="allgif.gif?raw=true" width="80%" />
-  </a>
-</p>
-
-> 💡 *Click the preview to watch the portfolio video*
 ## 🎥 Live Portfolio Preview (Auto-Play)
 
 <p align="center">
