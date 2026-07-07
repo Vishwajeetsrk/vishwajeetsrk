@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet</h1>
-<h3 align="center">Frontend Developer | BCA Student | UI Enthusiast 🚀</h3>
+
+<h3 align="center">
+🚀 Founder @Learnify AI | AI Software Engineer | Full Stack Developer | Data Analytics @Rootbridge
+</h3>
+
+<p align="center">
+Building AI-powered products that help students learn, grow, and build careers.
+</p>
 
 <p align="center">
   <a href="https://vishwajeetsrk.github.io/">
@@ -14,18 +21,29 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishwajeetsrk&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://komarev.com/ghpvc/?username=vishwajeetsrk&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/Vishwajeetsrk?label=Followers&style=social"/>
+
+<img src="https://img.shields.io/github/stars/Vishwajeetsrk?affiliations=OWNER&style=social"/>
+
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Student  
-- 💻 Frontend Developer focused on modern UI & responsive design  
-- 🤖 Exploring AI-powered apps & automation  
-- 📈 Building real-world projects (DreamSync 🚀)  
-- 🛠 Passionate about clean code & performance  
+- 🎓 BCA Graduate.
+- 💼 Data Management Professional @ Rootbridge
+- 🚀 Founder & Builder of Learnify AI
+- 🤖 Building AI-powered Learning & Career Platforms
+- 🌱 Exploring SaaS, AI Agents, Automation & Product Design
+- 💻 Full Stack Developer (React, Next.js, Node.js, Supabase)
+- 📊 Managed 100,000+ records across business operations
+- ❤️ Passionate about helping students and care leavers through technology
+
+> "Building the platform I wish I had growing up."
 
 ---
 
@@ -43,15 +61,120 @@
 
 ---
 
-## 🔭 Current Project
+## 🔭 Current Projects
+---
+- 🚀 <a href="https://github.com/Vishwajeetsrk/learnifyai">Learnify AI GitHub</a>
+<div align="center">
+  <a href="https://learnifyaitool.vercel.app/" target="_blank">Live Preview</a>
+    <img src="src/assets/learnify_demo.gif" alt="Learnify AI Platform Demo — Click to open Live Demo" width="100%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.15);" />
 
-- 🚀 <a href="https://github.com/Vishwajeetsrk/DreamSync">DreamSync AI App</a>
+  <p><em>👆 Click to open the live demo Learnify AI</em></p>
+</div>
+
+- 💼 <a href="https://github.com/Vishwajeetsrk/DreamSync">DreamSync GitHub</a>
+<div align="center">
+  <a href="https://dream-sync-nine.vercel.app/" target="_blank">Live Preview</a>
+    <img src="src/assets/DreamSync.gif" alt="DreamSync Demo — Click to open Live Demo" width="100%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.15);" />
+
+  <p><em>👆 Click to open the live demo DreamSync</em></p>
+</div>
+- 🧺 <a href="https://github.com/Vishwajeetsrk/LUXURY-LAUNDRY">Luxury Laundry GitHub</a>
+<div align="center">
+  <a href="https://luxurylaundry.vercel.app/" target="_blank">  Live Preview </a>
+    <img src="src/assets/LUXURYLAUNDRY_demo.gif" alt="Learnify AI Platform Demo — Click to open Live Demo" width="100%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.15);" />
+  <p><em>👆 Click to open the live demo Luxury Laundry</em></p>
+</div>
+
+---
+
+# 🚀 Featured Products
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Learnify AI
+
+AI-powered Learning & Career Platform
+
+✅ AI Tutor  
+✅ Resume Builder  
+✅ ATS Checker  
+✅ Mock Interviews  
+✅ Certificates  
+✅ Career Roadmaps  
+✅ AI Career Coach
+
+🌐 Live Demo  
+https://learnifyaitool.vercel.app
+
+📂 GitHub Repo  
+https://github.com/Vishwajeetsrk/learnifyai
+
+</td><td width="30%">
+  
+### 💼 DreamSync
+AI Career Intelligence Platform
+
+✅ Career Guidance  
+✅ Opportunity Discovery  
+✅ Resume Intelligence  
+✅ AI Coaching  
+✅ Career Growth Tracking
+
+🌐 Live Demo  
+https://dream-sync-nine.vercel.app/
+
+📂 GitHub Repo  
+https://github.com/Vishwajeetsrk/DreamSync
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧺 Luxury Laundry
+
+Production Grade Laundry SaaS
+
+✅ Wallet System  
+✅ Subscription Management  
+✅ Order Tracking  
+✅ RBAC Security  
+✅ Admin Dashboard
+
+🌐 Live Demo  
+https://luxurylaundry.vercel.app/
+
+📂 GitHub Repo  
+https://github.com/Vishwajeetsrk/LUXURY-LAUNDRY
+
+</td>
+
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Project Showcase
+
+| Project | Tech Stack | Status |
+|----------|------------|----------|
+| Learnify AI | Next.js, TypeScript, Supabase, AI APIs | 🚀 Active |
+| DreamSync | React, Node.js | 🚀 Active |
+| Luxury Laundry | Full Stack SaaS | ✅ Production |
+| ............ | AI + Mobility | 🛠 Development |
+| ............ | Multi-Agent Architecture | 🧪 Research |
 
 ---
 
 ## 📂 Projects
 
-👉 <a href="https://github.com/Vishwajeetsrk">View All Projects</a>
+👉 <a href="https://github.com/Vishwajeetsrk?tab=repositories">View All Projects</a>
 
 ---
 
@@ -64,28 +187,98 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,supabase,firebase,git,github,figma,vercel,vscode" />
 </p>
+
+---
+
+## 📊 Impact
+
+| Metric | Achievement |
+|----------|-------------|
+| Projects Built | 10+ |
+| SaaS Platforms | 3 |
+| Professional Experience | 2+ Years |
+| Records Managed | 100,000+ |
+| Data Issues Solved Monthly | 50+ |
+| Certifications | 10+ |
+| Open Source Projects | 10+ |
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/vishwajeetsrk"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://instagram.com/vishwajeetsrk"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="https://twitter.com/vishwajeetsrk"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://www.youtube.com/c/vishwajeetsrk"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+<a href="https://linkedin.com/in/vishwajeetsrk">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://instagram.com/vishwajeetsrk">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://twitter.com/vishwajeetsrk">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+
+<a href="https://www.youtube.com/c/vishwajeetsrk">
+<img src="https://skillicons.dev/icons?i=youtube" height="40"/>
+</a>
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vishwajeetsrk&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwajeetsrk&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeetsrk&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+[![Vishwajeet Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwajeetsrk&theme=tokyo-night)](https://github.com/Vishwajeetsrk)
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vishwajeetsrk&theme=tokyonight&row=2&column=4"/>
+</p>
+
+---
+
+## 🌍 Why I Build
+
+Growing up with support from Rainbow Foundation and WeLive Foundation taught me the value of opportunity, mentorship, and education.
+
+Today I'm building technology that helps:
+
+✅ Students
+
+✅ Care Leavers
+
+✅ Job Seekers
+
+✅ Young Professionals
+
+gain access to learning, career guidance, mentorship, and opportunities.
+
+### My Mission
+
+> Build the platform I wish I had growing up.
 
 ---
 
@@ -95,6 +288,7 @@
 <a href="https://www.buymeacoffee.com/vishwajeetsrk">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
 </a>
+
 <a href="https://ko-fi.com/vishwajeetsrk">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="180"/>
 </a>
@@ -102,19 +296,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vishwajeetsrk&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetsrk&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetsrk&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## ⚡ Fun Fact
 
-💡 I don’t just code — I enjoy debugging & optimization 😄
+💡 I don't just code — I enjoy debugging, optimization, UI design, and building products that create real-world impact.
+
+🚀 Currently building the future of AI-powered learning with Learnify AI.
