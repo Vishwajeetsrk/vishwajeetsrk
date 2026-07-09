@@ -207,8 +207,9 @@ https://github.com/Vishwajeetsrk/LUXURY-LAUNDRY
 ---
 
 ## 🌐 Connect With Me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vishwajeetsrk) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vishwajeetsrk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishwajeetsrk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeetsrk) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vishwajeetsrk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vishwajeetsrk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vishwajeetsrk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwajeetsrk@gmail.com) 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://linkedin.com/in/vishwajeetsrk">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -223,26 +224,16 @@ https://github.com/Vishwajeetsrk/LUXURY-LAUNDRY
 
 <a href="https://www.youtube.com/c/vishwajeetsrk">
 <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
-</a>
+</a> -->
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishwajeetsrk&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwajeetsrk&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeetsrk&layout=compact&theme=tokyonight"/>
-
-</p>
+![](https://github-readme-stats.shion.dev/api?username=vishwajeetsrk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vishwajeetsrk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishwajeetsrk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -282,8 +273,10 @@ gain access to learning, career guidance, mentorship, and opportunities.
 
 ---
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vishwajeetsrk) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vishwajeetsrk) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vishwajeetsrk) 
+<!-- 
 ## ☕ Support Me
-
 <p align="center">
 <a href="https://www.buymeacoffee.com/vishwajeetsrk">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
@@ -294,7 +287,7 @@ gain access to learning, career guidance, mentorship, and opportunities.
 </a>
 </p>
 
----
+--- -->
 
 ## ⚡ Fun Fact
 
